@@ -19,6 +19,7 @@ export class MainContentComponent implements OnInit {
   @Input() rewardPrograms: RewardPrograms = {
     id: 0,
     name: 'Azul Fidelidade',
+    status: true,
     type: 'Air',
     points: 50000,
     cost: 30
@@ -76,6 +77,16 @@ export class MainContentComponent implements OnInit {
     // else if (this.rewardPrograms.type == 'International') {
     //   return this.averageCostInternational();
     // }
+    return ''
+  }
+
+  checkStatusRewardProgram(): string {
+    if(this.rewardPrograms.status == true) {
+      return ''
+    } 
+    else if (this.rewardPrograms.status == false) {
+      return 'opacity-50'
+    }
     return ''
   }
 }

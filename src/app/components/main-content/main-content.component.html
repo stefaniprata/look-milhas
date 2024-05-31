@@ -1,11 +1,11 @@
 <section class="main-section">
     <div class="container">
         <div class="row">
-            <div class="col col-md-12">
+            <div class="col col-md-12" *ngFor="let rewardPrograms of listRewardPrograms">
                 <div class="main-list">
                     <div class="d-flex justify-content-between">
                         <p>{{rewardPrograms.name}}</p>
-                        <div class="d-flex gap-2 justify-content-center py-1">
+                        <div class="d-flex gap-2 justify-content-center py-1" [ngClass]="checkStatusRewardProgram()">
                             <span class="badge text-bg-primary rounded-pill">{{rewardPrograms.points}}</span>
                             <span class="badge rounded-pill" [ngClass]="checkCostByTypeRewardProgram()">CPM: R$ {{rewardPrograms.cost}}</span>
                         </div>

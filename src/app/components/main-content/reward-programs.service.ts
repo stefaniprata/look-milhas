@@ -8,7 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class RewardProgramsService {
 
-  private readonly apiUrl = 'http://localhost:3000/reward-programs';
+  private readonly apiUrl = 'http://localhost:3000/rewardPrograms';
   constructor(private http: HttpClient) { }
 
   getRewardPrograms(): Observable<RewardPrograms[]> {

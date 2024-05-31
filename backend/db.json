@@ -3,13 +3,15 @@
         {
             "id": 1,
             "name": "Azul Fidelidade",
+            "status": true,
             "type": "Air",
-            "points": 400.000,
+            "points": 400000,
             "cost": 15.00
         },
         {
             "id": 2,
             "name": "Latam Pass",
+            "status": true,
             "type": "Air",
             "points": 0,
             "cost": 0
@@ -17,16 +19,146 @@
         {
             "id": 3,
             "name": "Smiles",
+            "status": true,
             "type": "Air",
-            "points": 360.000,
+            "points": 360000,
             "cost": 21.50
         },
         {
             "id": 4,
             "name": "Livelo",
+            "status": true,
             "type": "Bank",
-            "points": 360.000,
+            "points": 260000,
             "cost": 21.50
+        },
+        {
+            "id": 5,
+            "name": "Esfera",
+            "status": true,
+            "type": "Bank",
+            "points": 120000,
+            "cost": 30.00
+        },
+        {
+            "id": 6,
+            "name": "Iberia",
+            "status": true,
+            "type": "Air",
+            "points": 18000,
+            "cost": 30.00
+        },
+        {
+            "id": 7,
+            "name": "AAdvantage",
+            "status": true,
+            "type": "Air",
+            "points": 21000,
+            "cost": 21.50
+        },
+        {
+            "id": 8,
+            "name": "Aeromexico Club Premier",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 9,
+            "name": "Air Canada Aeroplan",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        }, 
+        {
+            "id": 10,
+            "name": "Air France/KLM Flying Blue",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        }, 
+        {
+            "id": 11,
+            "name": "British Airways Executive Club",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 12,
+            "name": "ConnectMiles Copa Airlines",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 13,
+            "name": "Alaska Mileage Plan",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 14,
+            "name": "Delta Skymiles",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 15,
+            "name": "Emirates Skywards",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 16,
+            "name": "Etihad Guest",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        }, 
+        {
+            "id": 17,
+            "name": "Qantas Frequent Flyer",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 18,
+            "name": "TAP Miles&Go",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 19,
+            "name": "United MileagePlus",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
+        },
+        {
+            "id": 20,
+            "name": "Virgin Atlantic Flying Club",
+            "status": true,
+            "type": "Air",
+            "points": 0,
+            "cost": 0
         }
     ]
 }
