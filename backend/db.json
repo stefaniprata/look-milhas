@@ -5,8 +5,8 @@
             "name": "Azul Fidelidade",
             "status": true,
             "type": "Air",
-            "points": 400000,
-            "cost": 15.00
+            "points": 0,
+            "cost": 0
         },
         {
             "id": 2,
@@ -21,40 +21,40 @@
             "name": "Smiles",
             "status": true,
             "type": "Air",
-            "points": 360000,
-            "cost": 21.50
+            "points": 0,
+            "cost": 0
         },
         {
             "id": 4,
             "name": "Livelo",
             "status": true,
             "type": "Bank",
-            "points": 260000,
-            "cost": 21.50
+            "points": 0,
+            "cost": 0
         },
         {
             "id": 5,
             "name": "Esfera",
             "status": true,
             "type": "Bank",
-            "points": 120000,
-            "cost": 30.00
+            "points": 0,
+            "cost": 0
         },
         {
             "id": 6,
             "name": "Iberia",
             "status": true,
             "type": "Air",
-            "points": 18000,
-            "cost": 30.00
+            "points": 0,
+            "cost": 0
         },
         {
             "id": 7,
             "name": "AAdvantage",
             "status": true,
             "type": "Air",
-            "points": 21000,
-            "cost": 21.50
+            "points": 0,
+            "cost": 0
         },
         {
             "id": 8,
