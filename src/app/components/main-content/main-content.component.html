@@ -8,7 +8,8 @@
                         <div class="py-1">
                             <div class="d-inline opacity-50" [ngClass]="checkStatusRewardProgram()">
                                 <span class="badge text-bg-primary rounded-pill">{{rewardPrograms.points}}</span>
-                                <span class="badge rounded-pill mx-1"  [ngClass]="checkCostByTypeRewardProgram()">CPM: R$ {{rewardPrograms.cost}}</span>
+                                <span class="badge text-bg-info rounded-pill mx-2">R$ {{rewardPrograms.cost}}</span>
+                                <span class="badge rounded-pill"  [ngClass]="checkCostByTypeRewardProgram()">CPM: R$ {{rewardPrograms.cost}}</span>
                             </div>
                             <div class="ms-5 d-inline">
                                 <button type="button" class="btn btn-secondary">Info                                
@@ -17,6 +18,7 @@
                                     </span>
                                 </button>
                                 <button type="button" class="btn btn-link ms-3 disabled">Excluir</button>
+                                <button type="button" class="btn btn-link mx-2 disabled">Histórico</button>
                                 <button type="button" class="btn btn-outline-primary mx-2 disabled">Editar</button>
                                 <button type="button" class="btn btn-primary">Adicionar</button>
                             </div>

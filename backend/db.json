@@ -58,103 +58,15 @@
         },
         {
             "id": 8,
-            "name": "Aeromexico Club Premier",
+            "name": "Loop (Inter)",
             "status": true,
-            "type": "Air",
+            "type": "Bank",
             "points": 0,
             "cost": 0
         },
         {
             "id": 9,
-            "name": "Air Canada Aeroplan",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        }, 
-        {
-            "id": 10,
-            "name": "Air France/KLM Flying Blue",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        }, 
-        {
-            "id": 11,
-            "name": "British Airways Executive Club",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 12,
-            "name": "ConnectMiles Copa Airlines",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 13,
-            "name": "Alaska Mileage Plan",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 14,
-            "name": "Delta Skymiles",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 15,
-            "name": "Emirates Skywards",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 16,
-            "name": "Etihad Guest",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        }, 
-        {
-            "id": 17,
-            "name": "Qantas Frequent Flyer",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 18,
             "name": "TAP Miles&Go",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 19,
-            "name": "United MileagePlus",
-            "status": true,
-            "type": "Air",
-            "points": 0,
-            "cost": 0
-        },
-        {
-            "id": 20,
-            "name": "Virgin Atlantic Flying Club",
             "status": true,
             "type": "Air",
             "points": 0,
