@@ -8,6 +8,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { MatDividerModule } from '@angular/material';
 import { MainContentComponent } from './components/main-content/main-content.component';
 import { HttpClientModule } from '@angular/common/http';
+import { RewardProgramsComponent } from './components/reward-programs/reward-programs.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { HttpClientModule } from '@angular/common/http';
     AppComponent,
     HeaderComponent,
     FooterComponent,
-    MainContentComponent
+    MainContentComponent,
+    RewardProgramsComponent
   ],
   imports: [
     BrowserModule,

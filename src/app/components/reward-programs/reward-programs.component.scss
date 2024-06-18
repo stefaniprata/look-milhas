@@ -1,0 +1,29 @@
+.main-section{
+    margin: 1rem 0 3rem 0;
+}
+
+.main-list{
+    background-color: var(--bg-container);
+    border-radius: 0.5rem;
+    margin: 0.5rem 0;
+    padding: 0.8rem;
+}
+
+.main-list p{
+    font-size: var(--size-lg);
+    font-weight: 500;
+}
+
+.main-list .btn-link{
+    text-decoration: none;
+}
+
+.main-list .btn-secondary span{
+    font-size: var(--size-lg);
+    position: relative;
+    top: 4px;
+}
+
+.opacity-50{
+    opacity: 0.5;
+}
